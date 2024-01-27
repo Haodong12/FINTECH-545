@@ -1,0 +1,1 @@
+install pandas; numpy;matplotlib.pyplot;statsmodels;scipy
