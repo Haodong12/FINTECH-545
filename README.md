@@ -1,1 +1,1 @@
-# FINTECH-545
+install pandas; numpy;matplotlib.pyplot;statsmodels;scipy
