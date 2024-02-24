@@ -1,0 +1,1 @@
+install python, numpy, pandas, scipy, statsmodels
